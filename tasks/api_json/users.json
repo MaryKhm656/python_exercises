@@ -1,0 +1,45 @@
+[
+  {
+    "user_id": 1,
+    "name": "Leanne Graham",
+    "email": "leanne@example.com",
+    "posts": [
+      {"post_id": 101, "title": "My first post", "likes": 15},
+      {"post_id": 102, "title": "Another day", "likes": 23}
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "Ervin Howell",
+    "email": "ervin@example.com",
+    "posts": [
+      {"post_id": 103, "title": "Hello world!", "likes": 5}
+    ]
+  },
+  {
+    "user_id": 3,
+    "name": "Clementine Bauch",
+    "email": "clementine@example.com",
+    "posts": [
+      {"post_id": 104, "title": "Life updates", "likes": 30},
+      {"post_id": 105, "title": "Coding adventures", "likes": 45}
+    ]
+  },
+  {
+    "user_id": 4,
+    "name": "Patricia Lebsack",
+    "email": "patricia@example.com",
+    "posts": [
+      {"post_id": 106, "title": "Weekend vibes", "likes": 12}
+    ]
+  },
+  {
+    "user_id": 5,
+    "name": "Chelsey Dietrich",
+    "email": "chelsey@example.com",
+    "posts": [
+      {"post_id": 107, "title": "Travel diaries", "likes": 55},
+      {"post_id": 108, "title": "Best coffee shops", "likes": 33}
+    ]
+  }
+]
