@@ -17,13 +17,17 @@
 6. **team_match_stats.py** — Подсчёт результатов матчей между командами.
 7. **transposed_matrix.py** — Транспонирование матрицы с использованием функции `zip`.
 
-### Простые тесты с Pytest:
+### Простые тесты с Pytest и Unittest:
 
 В папке `tests/pytest/` находятся функции и соответствующие тесты, написанные с использованием `pytest`:
 
 - `even_or_odd.py` и `test_is_even.py`
 - `is_prime.py` и `test_is_prime.py`
 - `sum_of_list.py` и `test_sum_of_list.py`
+
+В папке `tests/unittest/` находится пример простого теста с использованием `unittest`:
+
+- `start.py` — тестирование функции сложения.
 
 ### Планы по расширению репозитория:
 
